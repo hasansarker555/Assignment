@@ -1,0 +1,328 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Inter", sans-serif;
+  font-family: "Merriweather", serif;
+}
+.continar {
+  width: 1000px;
+  height: 500px;
+  background-image: url(Banner\ Image.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-top: 50px;
+  align-items: center;
+  margin-left: 140px;
+  margin-right: 140px;
+}
+
+.newyera {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+.party {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+}
+.continartext {
+  padding-top: 150px;
+}
+.off {
+  text-align: center;
+  margin-top: 50px;
+}
+.offertext {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+}
+.our {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.catagory {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.happynewyear {
+  width: 600px;
+}
+.mightnightparty {
+  width: 1000px;
+  height: 500px;
+  background-image: url(Vectorrr.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-top: 50px;
+  align-items: center;
+  margin-left: 140px;
+  margin-right: 140px;
+  text-align: left;
+}
+.welcome {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+}
+.partydiscp {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+}
+.newyearlogo {
+  display: flex;
+  width: 250px;
+  height: 350px;
+  padding-right: 120px;
+}
+
+.mightnightparty {
+  display: flex;
+}
+.partytext {
+  padding: 0px 50px;
+}
+.bottom {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.hoteldetiel {
+  padding: 150px;
+  background-color: antiquewhite;
+  text-align: center;
+  border: 3px solid #ffffff;
+  border-radius: 20px;
+  background-size: contain;
+  background-position: center;
+  align-items: center;
+  margin-left: 140px;
+  margin-right: 140px;
+  margin: 50px;
+}
+.hotelcontiner {
+  width: 1000px;
+  height: 500px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.info {
+  color: #070211;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.joinnow {
+  background-color: #f00;
+  color: #fff;
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.btnnn :hover {
+  background-color: rgb(65, 15, 15);
+}
+
+.empty {
+  width: 1000px;
+  height: 500px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.imgpera {
+  color: #070211;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+}
+
+.soon {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  text-align: left;
+}
+
+.bestoffer {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.happyimg {
+  padding-left: 30px;
+  padding-right: 50px;
+}
+
+.imgtextcontiner {
+  width: 1000px;
+  height: 500px;
+  margin: 50px 140px 140px;
+  background-color: antiquewhite;
+  border: solid rgb(255, 255, 255) 3px;
+  border-radius: 10px;
+}
+/* Onk Try Krchi Bt Circel Ta Dite Parlam Na  */
+.textcontinerg {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.imgglrycont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 16px;
+}
+
+.laterbox {
+  width: 1000px;
+  height: 500px;
+  background-color: antiquewhite;
+  background-position: center;
+  margin-top: 70px;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 10px;
+}
+.subscribe {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  padding-top: 20px;
+}
+.laterdis {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 20px;
+}
+.boxlatter {
+  padding-top: 50px;
+}
+.from {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 25px;
+  margin-bottom: 25px;
+  padding: 18px 35px;
+  border-radius: 50px;
+  background: #fff;
+  margin-left: 20px;
+}
+.frombtn {
+  text-align: center;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 25px;
+  margin-bottom: 25px;
+  padding: 18px 35px;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  margin-right: 40px;
+}
+.footer {
+  display: flex;
+  background-color: #070211;
+  padding-top: 150px;
+  align-content: space-between;
+  padding-left: 150px;
+  padding-right: 150px;
+  gap: 500px;
+}
+.footerinfo {
+  color: antiquewhite;
+  align-items: center;
+  align-content: space-between;
+  padding-bottom: 50px;
+}
+.socialmedia {
+  background-color: #070211;
+  padding-top: 50px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.hr {
+  background: rgba(255, 255, 255, 0.15);
+}
+.lastfooter {
+  width: 1500px;
+  height: 150px;
+  color: #fff;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  background-color: #070211;
+  display: flex;
+  gap: 900px;
+  align-items: start;
+  padding-top: 25px;
+}
